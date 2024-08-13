@@ -1,3 +1,6 @@
+## 极光（aurora)4.X版下载
+- <a href="https://files.7ecnologia.com/Aurora_3.0.6_x86_zh-CN.msi"> Windows 下载连接1</a>
+
 ## 极光（aurora)3.X版下载
 - <a href="https://files.7ecnologia.com/aurora_v3.0.8-arm64.apk"> Android 下载连接1</a>
 - <a href="https://files.jsa1004.com/aurora_v3.0.8-arm64.apk"> Android 下载连接2</a>
